@@ -1,0 +1,5 @@
+.sentence {
+  color: rgb(16, 16, 241);
+  text-decoration: underline;
+  cursor: pointer;
+}
